@@ -1,0 +1,48 @@
+*{
+    background-color: white;
+}
+
+.signUp{
+  
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 100px 0px 0px 870px;
+    height: 70vh;
+    box-shadow: 0px 0px 12px gray;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+.input{
+   margin: 10px;
+   background-color: gold;
+   width: 70%;
+   height: 10%;
+   margin-left: 100px;
+}
+
+input{
+    width: 99% ;
+    height: 90%;
+    box-shadow: 0px 0px  12px gray;
+    border-radius: 4px;
+}
+.button{
+    background-color: black;
+    width: 35%;
+    height: 40px;
+    margin-left: 200px;
+    text-align: center;
+   
+}
+button{
+    width: 99%;
+  height: 99%;
+  cursor: pointer;
+  font-size: 20px;
+  color: blue;
+ border-radius: 10px;
+ background-color: gray
+}
